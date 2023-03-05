@@ -1,0 +1,10 @@
+/Library
+/Logs
+/*.vsconfig
+/Packages
+/Temp
+/UserSettings
+/.vs/Project_PLX/v16/*.suo
+/*.csproj
+/obj
+/.vs
