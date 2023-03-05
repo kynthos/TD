@@ -1,0 +1,3 @@
+[submodule "InfrA"]
+	path = InfrA
+	url = https://github.com/kynthos/InfrA.git
